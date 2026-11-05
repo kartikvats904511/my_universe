@@ -1,0 +1,32 @@
+{
+  "nextId": 4,
+  "collections": {
+    "diary": [
+      {
+        "id": 1,
+        "title": "living with dying",
+        "body": "hi",
+        "mood": "🌀 Confused",
+        "happy": "jiji",
+        "unsaid": "gyhujk",
+        "date": "2026-11-05T01:53:28.375Z",
+        "createdAt": "2026-11-05T01:53:28.449Z"
+      }
+    ],
+    "wishlist": [
+      {
+        "id": 2,
+        "title": "car",
+        "category": "Shopping",
+        "price": "10000000000000",
+        "priority": "Someday soon",
+        "status": "Dreaming",
+        "description": "",
+        "link": "",
+        "targetDate": "",
+        "createdAt": "2026-11-05T01:56:16.342Z"
+      }
+    ],
+    "memories": []
+  }
+}
